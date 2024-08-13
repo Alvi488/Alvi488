@@ -5,8 +5,7 @@ My name is *Alvaro Tomasino*
 I'm living in *Rosario*, *Santa Fe*, *Argentina*.
 
 I'm a student in the *Universidad Tecnológica Nacional FRRo*.
-[Universiy homepage][web]
-[web]:(https://www.frro.utn.edu.ar/)
+[University Homepage](https://www.frro.utn.edu.ar/)
 <!--
 **Alvi488/Alvi488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
