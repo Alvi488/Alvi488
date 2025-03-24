@@ -4,7 +4,8 @@
 
 *Living in:* Rosario, Santa Fe, Argentina.
 
-*Doing a course:* Systems Engineer. 
+*Doing a course:* Systems Engineer.
+
 *Student at:* Universidad Tecnológica Nacional FRRo.
 [University Homepage](https://www.frro.utn.edu.ar/)
 <!--
