@@ -1,10 +1,11 @@
 # **¡Hola!** #
 
-Name: *Alvaro Tomasino*
+*Name:* Alvaro Tomasino
 
-Living in: *Rosario*, *Santa Fe*, *Argentina*.
+*Living in:* Rosario, Santa Fe, Argentina.
 
-Student on: *Universidad Tecnológica Nacional FRRo*.
+*Doing a course:* Systems Engineer. 
+*Student at:* Universidad Tecnológica Nacional FRRo.
 [University Homepage](https://www.frro.utn.edu.ar/)
 <!--
 **Alvi488/Alvi488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
